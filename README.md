@@ -13,3 +13,4 @@ Rust + C:
 `./gradlew run --args="--file data/RUSTSEC-2023-0022.rs --c-file data/RUSTSEC-2023-0022.c --rebuild"`
 
 Neo4j instance will run on `localhost:7474`.
+Default Neo4j username/password is set to `neo4j`, `00000000`.
